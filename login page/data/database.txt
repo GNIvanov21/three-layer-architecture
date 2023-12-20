@@ -1,2 +1,0 @@
-admin,admin
-GNIvanov21,password321
